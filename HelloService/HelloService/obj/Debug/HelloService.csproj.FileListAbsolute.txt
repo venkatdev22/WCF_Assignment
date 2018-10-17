@@ -1,0 +1,6 @@
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloService\bin\Debug\HelloService.dll
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloService\bin\Debug\HelloService.pdb
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloService\obj\Debug\HelloService.dll
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloService\obj\Debug\HelloService.pdb

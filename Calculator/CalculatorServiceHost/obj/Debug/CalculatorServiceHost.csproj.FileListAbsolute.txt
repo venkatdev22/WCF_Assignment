@@ -1,0 +1,19 @@
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe.config
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.pdb
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorService.dll
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorService.pdb
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.exe
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.pdb
+D:\FSD\Assignment\Output\CalculatorService\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe.config
+D:\FSD\Assignment\Output\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.exe
+D:\FSD\Assignment\Output\CalculatorService\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.pdb
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe.config
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.exe
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\bin\Debug\CalculatorServiceHost.pdb
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\bin\Debug\CalculatorService.dll
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\bin\Debug\CalculatorService.pdb
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.csprojResolveAssemblyReference.cache
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.exe
+D:\FSD\Assignment\Output\Calculator\CalculatorServiceHost\obj\Debug\CalculatorServiceHost.pdb

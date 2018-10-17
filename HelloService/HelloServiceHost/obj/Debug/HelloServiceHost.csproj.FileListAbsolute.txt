@@ -1,0 +1,16 @@
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\Raj\FSD\Assignment Output\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+D:\FSD\Assignment\Output\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache

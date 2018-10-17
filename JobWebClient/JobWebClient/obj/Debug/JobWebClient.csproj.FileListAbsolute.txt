@@ -1,0 +1,92 @@
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\ApplicationInsights.config
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\csc.exe
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\vbc.exe
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\VBCSCompiler.exe
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\JobWebClient.dll.config
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\JobWebClient.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\JobWebClient.pdb
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.DependencyCollector.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.Web.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.WindowsServer.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.ApplicationInsights.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Helpers.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Mvc.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Razor.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Webpages.Deployment.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Webpages.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Webpages.Razor.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.DependencyCollector.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.Web.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.AI.WindowsServer.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.ApplicationInsights.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Razor.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Webpages.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Webpages.Deployment.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Webpages.Razor.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Helpers.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\bin\System.Web.Mvc.xml
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\obj\Debug\JobWebClient.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\obj\Debug\JobWebClient.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobWebClient\JobWebClient\obj\Debug\JobWebClient.pdb
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\ApplicationInsights.config
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\csc.exe
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\vbc.exe
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\VBCSCompiler.exe
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\JobWebClient.dll.config
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\JobWebClient.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\JobWebClient.pdb
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.DependencyCollector.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.Web.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.WindowsServer.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.ApplicationInsights.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Helpers.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Mvc.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Razor.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Webpages.Deployment.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Webpages.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Webpages.Razor.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.DependencyCollector.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.Web.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.AI.WindowsServer.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.ApplicationInsights.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Razor.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Webpages.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Webpages.Deployment.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Webpages.Razor.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Helpers.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\bin\System.Web.Mvc.xml
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\obj\Debug\JobWebClient.csprojResolveAssemblyReference.cache
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\obj\Debug\JobWebClient.dll
+D:\FSD\Assignment\Output\JobWebClient\JobWebClient\obj\Debug\JobWebClient.pdb

@@ -1,0 +1,6 @@
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobService\JobService\bin\Debug\JobService.dll.config
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobService\JobService\bin\Debug\JobService.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobService\JobService\bin\Debug\JobService.pdb
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobService\JobService\obj\Debug\JobService.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobService\JobService\obj\Debug\JobService.dll
+D:\Raj\FSD\Assignment Output\WCF\WCF_2\JobService\JobService\obj\Debug\JobService.pdb

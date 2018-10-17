@@ -1,0 +1,6 @@
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll.config
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorService\bin\Debug\CalculatorService.pdb
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb

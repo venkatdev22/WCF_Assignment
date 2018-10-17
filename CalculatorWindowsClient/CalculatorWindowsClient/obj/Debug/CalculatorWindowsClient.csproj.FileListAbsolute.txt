@@ -1,0 +1,18 @@
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.exe.config
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.exe
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.pdb
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.Form1.resources
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.Properties.Resources.resources
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.csproj.GenerateResource.Cache
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.exe
+D:\Raj\FSD\Assignment Output\WCF\Calculator\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.pdb
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.exe.config
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.exe
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.pdb
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.exe
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.pdb
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.csprojResolveAssemblyReference.cache
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.Form1.resources
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.Properties.Resources.resources
+D:\FSD\Assignment\Output\CalculatorWindowsClient\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.csproj.GenerateResource.Cache
